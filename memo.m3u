@@ -1,7 +1,8 @@
+
 #EXTM3U
-#EXTINF: -1, Star TV
+#EXTINF:0,Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF: -1, FOX TV
+#EXTINF:0,FOX TV
 https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=DnZRk_0ei9dXOM8oSYrEJw&e=1660335986
-#EXTINF: -1, TV 8
+#EXTINF:0,TV 8
 https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=zRwKGOSoIO2ra92d16KZYw&e=1660336263
